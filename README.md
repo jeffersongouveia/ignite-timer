@@ -2,7 +2,7 @@
 
 This is a simple project that uses some advanced concepts of React and TypeScript.
 
-![Captura de Tela 2024-02-01 às 17.40.43.png](..%2F..%2F..%2FDesktop%2FCaptura%20de%20Tela%202024-02-01%20%C3%A0s%2017.40.43.png)
+<img width="1904" alt="Captura de Tela 2024-02-01 às 17 40 43" src="https://github.com/jeffersongouveia/ignite-timer/assets/12664845/eff3a301-4d60-4b07-b69a-952a60ee03d6">
 
 ## Available Scripts
 
